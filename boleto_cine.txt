@@ -1,0 +1,11 @@
+---------------------------------
+        Boleto de Cine
+---------------------------------
+Fecha y hora: 2024-04-09 18:03:40
+Nombre: jose brice¤o
+Cédula: 31.123.776
+Sala: 5
+Puesto: A8
+Hora de la función: 12:00
+Película: Dune 2
+---------------------------------
